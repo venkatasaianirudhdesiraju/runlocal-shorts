@@ -1,0 +1,10 @@
+exports/
+work/
+models/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.wav
+*.mp4
+*.jpg
