@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "local-vs-cloud-ai-cost",
+    "hook": "Why your AI chatbot is costing you money every single message",
+    "angle": "Contrast per-token cloud API billing with a local model's zero marginal cost.",
+    "status": "drafted"
+  },
+  {
+    "slug": "ollama-in-60-seconds",
+    "hook": "You can run a real AI model on your own desktop in under a minute",
+    "angle": "The three commands to install Ollama and talk to a local model for the first time.",
+    "status": "pending"
+  },
+  {
+    "slug": "data-never-leaves-machine",
+    "hook": "Here's what actually happens to your data when you use a cloud AI chatbot",
+    "angle": "Explain that cloud AI sends every message to a third-party server, vs. a local model where nothing leaves the device.",
+    "status": "pending"
+  },
+  {
+    "slug": "sqlite-one-file-database",
+    "hook": "Your whole app's database can be a single file, and that's a feature",
+    "angle": "Why SQLite's single-file simplicity is underrated for small self-hosted tools.",
+    "status": "pending"
+  },
+  {
+    "slug": "self-hosted-dashboard-idea",
+    "hook": "I built my own private dashboard instead of paying for five different apps",
+    "angle": "The case for one self-hosted dashboard over stitching together subscription apps.",
+    "status": "pending"
+  },
+  {
+    "slug": "ai-that-cant-lie-about-your-data",
+    "hook": "How to stop your AI assistant from making up facts about you",
+    "angle": "Grounding a model's system prompt in real structured data instead of letting it guess.",
+    "status": "pending"
+  },
+  {
+    "slug": "why-not-everything-needs-the-cloud",
+    "hook": "Not everything you build needs to live in the cloud",
+    "angle": "When a local-first app is genuinely the better default, not just the cheaper one.",
+    "status": "pending"
+  }
+]
