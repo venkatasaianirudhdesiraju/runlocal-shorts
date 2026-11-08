@@ -9,7 +9,7 @@
     "slug": "ollama-in-60-seconds",
     "hook": "You can run a real AI model on your own desktop in under a minute",
     "angle": "The three commands to install Ollama and talk to a local model for the first time.",
-    "status": "pending"
+    "status": "drafted"
   },
   {
     "slug": "data-never-leaves-machine",
