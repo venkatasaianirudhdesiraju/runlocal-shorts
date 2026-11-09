@@ -15,7 +15,7 @@
     "slug": "data-never-leaves-machine",
     "hook": "Here's what actually happens to your data when you use a cloud AI chatbot",
     "angle": "Explain that cloud AI sends every message to a third-party server, vs. a local model where nothing leaves the device.",
-    "status": "pending"
+    "status": "drafted"
   },
   {
     "slug": "sqlite-one-file-database",
