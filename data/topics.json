@@ -21,7 +21,7 @@
     "slug": "sqlite-one-file-database",
     "hook": "Your whole app's database can be a single file, and that's a feature",
     "angle": "Why SQLite's single-file simplicity is underrated for small self-hosted tools.",
-    "status": "pending"
+    "status": "drafted"
   },
   {
     "slug": "self-hosted-dashboard-idea",
