@@ -33,7 +33,7 @@
     "slug": "ai-that-cant-lie-about-your-data",
     "hook": "How to stop your AI assistant from making up facts about you",
     "angle": "Grounding a model's system prompt in real structured data instead of letting it guess.",
-    "status": "pending"
+    "status": "drafted"
   },
   {
     "slug": "why-not-everything-needs-the-cloud",
